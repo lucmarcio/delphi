@@ -1,0 +1,8 @@
+Android/
+Win32/
+__history/
+*.~*
+*.dsk
+*.identcache
+*.local
+*.stat
